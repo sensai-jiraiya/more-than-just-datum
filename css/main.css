@@ -3,21 +3,21 @@ html {
 }
 
 .table-wrapper table {
- min-width: 45em;
+  min-width: 45em;
 }
 
 .logo {
- max-width: 200px;
+  max-width: 200px;
 }
 
 header {
- background-color: #ddd;
+  background-color: #ddd;
 }
 
 .card {
- background-color: #efefef;
+  background-color: #efefef;
 }
 
 section {
- background-color: #fff;
+  background-color: #fff;
 }
